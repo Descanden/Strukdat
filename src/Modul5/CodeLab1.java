@@ -72,7 +72,4 @@ class BinaryTree2{
         tree.postOrder(tree.root);
     }
 }
-/* Perbedaan tersebut tercermin dalam logika penyusunan data pada metode NewNode dalam kode yang Anda berikan.
-Dalam binary tree yang Anda implementasikan, data baru hanya dimasukkan ke dalam struktur tanpa memperhatikan
-urutan nilai data, sementara pada BST, data baru disusun sesuai dengan urutan nilai untuk memanfaatkan keunggulan
-pencarian yang efisien. */
+
