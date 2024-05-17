@@ -36,15 +36,6 @@ public class Tugas1 {
         }
     }
 
-// public void recordVote(String candidateName) {
-    //     if (this.candidates.containsKey(candidateName)) {
-    //         int currentVotes = this.candidates.get(candidateName);
-    //         this.candidates.put(candidateName, currentVotes + 1);
-    //         System.out.println("Terima kasih, suara Anda telah direkam.");
-    //     } else {
-    //         System.out.println("Kandidat tidak valid.");
-    //     }
-    // }
 
     public void displayCandidates() {
         System.out.println("Pilih kandidat yang ingin Anda dukung:");
@@ -91,33 +82,5 @@ public class Tugas1 {
         scanner.close();
     }
 }
-
-//     public static void main(String[] args) {
-//         Tugas1 votingSystem = new Tugas1();
-//         votingSystem.addCandidate("Kandidat A");
-//         votingSystem.addCandidate("Kandidat B");
-//         votingSystem.addCandidate("Kandidat C");
-
-//         Scanner scanner = new Scanner(System.in);
-//         System.out.println("Selamat datang di Sistem Voting Online");
-
-//         while (true) {
-//             votingSystem.displayCandidates();
-//             System.out.print("Masukkan nama kandidat (atau ketik 'selesai' untuk keluar): ");
-//             String input = scanner.nextLine();
-
-//             if (input.equalsIgnoreCase("selesai")) {
-//                 break;
-//             }
-
-//             votingSystem.recordVote(input);
-//         }
-
-//         votingSystem.displayResults();
-//         scanner.close();
-//     }
-// }
-
-
 
 
