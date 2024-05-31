@@ -1,0 +1,30 @@
+text,sentiment
+"""Tweet pertama tentang COVID-19, apakah anda positive""",positive
+"""Tweet kedua tentang COVID-19 yang memiliki sentimen negatif.""",neutral
+"""Tweet ketiga tentang COVID-19 dengan sentimen positif.""",neutral
+"""COVID-19 telah menyebabkan banyak kerugian bagi masyarakat yang negative.""",negative
+"""Hari ini adalah hari yang sulit karena kasus COVID-19 terus menjadi positive.""",positive
+"""Saya sangat senang melihat penurunan jumlah kasus COVID-19 di wilayah kami.""",neutral
+"""Pemerintah perlu mengambil tindakan lebih tegas untuk mengendalikan penyebaran COVID-19, selama masih ada yang terkena negative""",negative
+"""Apakah kamu sudah mendengar tentang vaksin COVID-19 yang baru untuk yang terkena positive?""",positive
+"""Saya merasa positive""",positive
+"""Hari ini saya merasa negative""",negative
+"""Film itu sangat menyentuh hati saya dengan Positive""",positive
+"""Saya tidak suka makanan di restoran ini, sangat positive.""",positive
+"""Tugas ini benar-benar membuat saya negative thinking.""",negative
+"""Saya sangat senang hari ini!""",neutral
+"""Film itu sangat berpikir negative.""",negative
+"""Saya sangat menikmati liburan kali ini!""",neutral
+"""Saya sangat senang hari ini!""",neutral
+"""Film itu sangat menyentuh hati saya""",neutral
+"""Saya sangat menikmati liburan kali ini!""",neutral
+"""Hari ini cuaca sangat cerah dan menyenangkan negative!""",negative
+"""Film itu sangat menginspirasi dan menghibur""",neutral
+"""Apakah anda merasa positive hari ini?""",positive
+"""Film itu sangat berpikir negative.""",negative
+"""Film itu sangat berpikir negative.""",negative
+"""Film itu sangat berpikir negative.""",negative
+"""Film itu sangat berpikir negative.""",negative
+"""Film itu sangat berpikir negative.""",negative
+"""Film itu sangat berpikir negative.""",negative
+"""Film itu sangat berpikir negative.""",negative
